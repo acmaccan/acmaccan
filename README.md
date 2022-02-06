@@ -1,6 +1,6 @@
 ## 🪁 Playground
 
-- Dollar to Peso ARG - vanillaJS + DOM + API<br/>
+- dollar to peso ARG converter - vanillaJS + DOM + API<br/>
   [Repo](https://github.com/acmaccan/exchange-dolar-pesoarg) | 
   [Online version](https://acmaccan.github.io/exchange-dolar-pesoarg/)
 

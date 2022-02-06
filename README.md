@@ -1,4 +1,11 @@
-## 👩‍💻 Projects
+## 🪁 Playground
+
+- My calculator - vanillaJS + DOM<br/>
+  [Repo](https://github.com/acmaccan/my-calculator) | 
+  [Online version](https://acmaccan.github.io/my-calculator/)
+  <br/><br/>
+
+## 👩‍💻 Projects with courses
 
 React for Begginers @Academind
 - [Expenses Tracker - React App](https://github.com/acmaccan/react-expense-app)

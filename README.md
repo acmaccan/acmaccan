@@ -1,6 +1,10 @@
 ## 🪁 Playground
 
-- My calculator - vanillaJS + DOM<br/>
+- Dollar to Peso ARG - vanillaJS + DOM + API<br/>
+  [Repo](https://github.com/acmaccan/exchange-dolar-pesoarg) | 
+  [Online version](https://acmaccan.github.io/exchange-dolar-pesoarg/)
+
+- arithmetic calculator - vanillaJS + DOM<br/>
   [Repo](https://github.com/acmaccan/my-calculator) | 
   [Online version](https://acmaccan.github.io/my-calculator/)
   <br/><br/>

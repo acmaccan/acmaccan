@@ -9,9 +9,9 @@
   [Online version](https://acmaccan.github.io/my-calculator/)
   <br/><br/>
 
-## 👩‍💻 Projects with courses
+## 👩‍💻 Projects from courses adn trainings
 
-React for Begginers @Academind
+React for Begginers @Academind<br/>
 - [Expenses Tracker - React App](https://github.com/acmaccan/react-expense-app)
   <br/><br/>
 
@@ -47,6 +47,12 @@ Bootcamp Desarrollo Web @ Juan Pablo de la Torre Valdez
 ## 🧪 Practices
 - [Interview challenges](https://github.com/acmaccan/interview-challenges)
   <br/><br/>
+
+## 💾 Oldies
+- Contramedia 2014<br/>
+[Repo](https://github.com/acmaccan/contramedia-2014) | [Online version](https://acmaccan.github.io/contramedia-2014/)<br/>
+- Por Tutatis 2013<br/>
+[Repo](https://github.com/acmaccan/por-tutatis-2013) | [Online version](https://acmaccan.github.io/por-tutatis-2013/)<br/><br/>
 
 ![Andrea Maccan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acmaccan&show_icons=true&theme=nightowl)
 

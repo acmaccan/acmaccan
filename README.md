@@ -38,6 +38,12 @@ Bootcamp Desarrollo Web @ Juan Pablo de la Torre Valdez
 - [upTask](https://github.com/acmaccan/upTask)
   <br/><br/>
 
+## 💾 Oldies
+- Contramedia 2014<br/>
+[Repo](https://github.com/acmaccan/contramedia-2014) | [Online version](https://acmaccan.github.io/contramedia-2014/)<br/>
+- Por Tutatis 2013<br/>
+[Repo](https://github.com/acmaccan/por-tutatis-2013) | [Online version](https://acmaccan.github.io/por-tutatis-2013/)<br/><br/>
+
 ## 📓 My notebook
 - [Object Oriented JS](https://github.com/acmaccan/object-oriented-js)
 - [MongoDB](https://github.com/acmaccan/mongoDB-University-M001-mongoDB-basics)
@@ -47,12 +53,6 @@ Bootcamp Desarrollo Web @ Juan Pablo de la Torre Valdez
 ## 🧪 Practices
 - [Interview challenges](https://github.com/acmaccan/interview-challenges)
   <br/><br/>
-
-## 💾 Oldies
-- Contramedia 2014<br/>
-[Repo](https://github.com/acmaccan/contramedia-2014) | [Online version](https://acmaccan.github.io/contramedia-2014/)<br/>
-- Por Tutatis 2013<br/>
-[Repo](https://github.com/acmaccan/por-tutatis-2013) | [Online version](https://acmaccan.github.io/por-tutatis-2013/)<br/><br/>
 
 ![Andrea Maccan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acmaccan&show_icons=true&theme=nightowl)
 

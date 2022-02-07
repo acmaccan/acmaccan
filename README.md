@@ -9,7 +9,7 @@
   [Online version](https://acmaccan.github.io/my-calculator/)
   <br/><br/>
 
-## 👩‍💻 Projects from courses adn trainings
+## 👩‍💻 Projects from courses and trainings
 
 React for Begginers @Academind<br/>
 - [Expenses Tracker - React App](https://github.com/acmaccan/react-expense-app)

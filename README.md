@@ -1,7 +1,7 @@
 ## 👩‍💻 Projects from courses and trainings
 
 NestJS + graphQL @ Fernando Herrera
-- [Studious Octo Potato](https://github.com/acmaccan/studious-octo-potato)
+- [Studious Octo Potato](https://github.com/acmaccan/studious-octo-potato): Backend NestJS + graphQL + TypeORM + Docker + PostgreSQL + Apollo Server + JWT + Bcrypt. CRUD , validations, authentication, authorization, handling errors, seeding, paginations, filters,.
   <br/><br/>
 
 React PRO @ Fernando Herrera
@@ -55,6 +55,5 @@ Bootcamp Desarrollo Web @ Juan Pablo de la Torre Valdez
   <br/><br/>
 
 ![Andrea Maccan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acmaccan&show_icons=true&theme=nightowl)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmaccan&theme=nightowl&layout=compact&hide=html,css,handlebars,pug,scss)](https://github.com/acmaccan/github-readme-stats)

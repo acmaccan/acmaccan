@@ -1,21 +1,7 @@
-## 🪁 Playground
-
-- dollar to peso ARG converter - vanillaJS + DOM + API<br/>
-  [Repo](https://github.com/acmaccan/exchange-dolar-pesoarg) | 
-  [Online version](https://acmaccan.github.io/exchange-dolar-pesoarg/)
-
-- arithmetic calculator - vanillaJS + DOM<br/>
-  [Repo](https://github.com/acmaccan/my-calculator) | 
-  [Online version](https://acmaccan.github.io/my-calculator/)
-  <br/><br/>
-
 ## 👩‍💻 Projects from courses and trainings
 
 React for Begginers @Academind<br/>
 - [Expenses Tracker - React App](https://github.com/acmaccan/react-expense-app)
-  <br/><br/>
-
-React for Begginers @Academind
 - [Meetup - React SPA](https://github.com/acmaccan/academind-meetup-react)
   <br/><br/>
 
@@ -36,6 +22,17 @@ Node de cero a Experto @ Fernando Herrera
 Bootcamp Desarrollo Web @ Juan Pablo de la Torre Valdez
 - [devJobs](https://github.com/acmaccan/devJobs)
 - [upTask](https://github.com/acmaccan/upTask)
+  <br/><br/>
+
+## 🪁 Playing with JS
+
+- dollar to peso ARG converter - vanillaJS + DOM + API<br/>
+  [Repo](https://github.com/acmaccan/exchange-dolar-pesoarg) | 
+  [Online version](https://acmaccan.github.io/exchange-dolar-pesoarg/)
+
+- arithmetic calculator - vanillaJS + DOM<br/>
+  [Repo](https://github.com/acmaccan/my-calculator) | 
+  [Online version](https://acmaccan.github.io/my-calculator/)
   <br/><br/>
 
 ## 💾 Oldies

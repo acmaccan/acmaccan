@@ -1,6 +1,6 @@
 ## 👩‍💻 Projects from courses and trainings
 
-NestJs + graphQL @ Fernando Herrera
+NestJS + graphQL @ Fernando Herrera
 - [Studious Octo Potato](https://github.com/acmaccan/studious-octo-potato)
   <br/><br/>
 
@@ -80,6 +80,3 @@ Bootcamp Desarrollo Web @ Juan Pablo de la Torre Valdez
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmaccan&theme=nightowl&layout=compact&hide=html,css,handlebars,pug,scss)](https://github.com/acmaccan/github-readme-stats)
-
-
-

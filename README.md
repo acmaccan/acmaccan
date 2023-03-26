@@ -54,28 +54,6 @@ Bootcamp Desarrollo Web @ Juan Pablo de la Torre Valdez
 - [Interview challenges](https://github.com/acmaccan/interview-challenges)
   <br/><br/>
 
-## 🪁 Playing with JS
-
-- dollar to peso ARG converter - vanillaJS + DOM + API<br/>
-  [Repo](https://github.com/acmaccan/exchange-dolar-pesoarg) | 
-  [Online version](https://acmaccan.github.io/exchange-dolar-pesoarg/)
-
-- arithmetic calculator - vanillaJS + DOM<br/>
-  [Repo](https://github.com/acmaccan/my-calculator) | 
-  [Online version](https://acmaccan.github.io/my-calculator/)
-  <br/><br/>
-
-## 💾 Oldies
-- Espíritu Natural<br/>
-[Repo](https://github.com/acmaccan/espiritu-natural) | [Online version](https://acmaccan.github.io/espiritu-natural/espiritu-natural/)<br/>
-- Amores Flores<br/>
-[Repo](https://github.com/acmaccan/amores-flores) | [Online version](https://acmaccan-amores-flores.herokuapp.com/)<br/>
-- Contramedia 2014<br/>
-[Repo](https://github.com/acmaccan/contramedia-2014) | [Online version](https://acmaccan.github.io/contramedia-2014/)<br/>
-- Por Tutatis 2013<br/>
-[Repo](https://github.com/acmaccan/por-tutatis-2013) | [Online version](https://acmaccan.github.io/por-tutatis-2013/)<br/><br/>
-
-
 ![Andrea Maccan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acmaccan&show_icons=true&theme=nightowl)
 
 

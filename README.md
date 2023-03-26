@@ -56,6 +56,10 @@ Bootcamp Desarrollo Web @ Juan Pablo de la Torre Valdez
 
 ![Andrea Maccan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acmaccan&show_icons=true&theme=nightowl)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmaccan&theme=nightowl&layout=compact&hide=html,css,handlebars,pug,scss)](https://github.com/acmaccan/github-readme-stats)
+
+
 #### **STACK**
 
 | HTML5  | CSS3 | JavaScript | NodeJS | MongoDB | MySql |

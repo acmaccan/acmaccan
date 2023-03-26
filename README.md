@@ -24,6 +24,16 @@ Bootcamp Desarrollo Web @ Juan Pablo de la Torre Valdez
 - [upTask](https://github.com/acmaccan/upTask)
   <br/><br/>
 
+## 📓 My notebook
+- [Object Oriented JS](https://github.com/acmaccan/object-oriented-js)
+- [MongoDB](https://github.com/acmaccan/mongoDB-University-M001-mongoDB-basics)
+- [SQL](https://github.com/acmaccan/alkemy-SQL-I)
+  <br/><br/>
+
+## 🧪 Practices
+- [Interview challenges](https://github.com/acmaccan/interview-challenges)
+  <br/><br/>
+
 ## 🪁 Playing with JS
 
 - dollar to peso ARG converter - vanillaJS + DOM + API<br/>
@@ -41,15 +51,6 @@ Bootcamp Desarrollo Web @ Juan Pablo de la Torre Valdez
 - Por Tutatis 2013<br/>
 [Repo](https://github.com/acmaccan/por-tutatis-2013) | [Online version](https://acmaccan.github.io/por-tutatis-2013/)<br/><br/>
 
-## 📓 My notebook
-- [Object Oriented JS](https://github.com/acmaccan/object-oriented-js)
-- [MongoDB](https://github.com/acmaccan/mongoDB-University-M001-mongoDB-basics)
-- [SQL](https://github.com/acmaccan/alkemy-SQL-I)
-  <br/><br/>
-
-## 🧪 Practices
-- [Interview challenges](https://github.com/acmaccan/interview-challenges)
-  <br/><br/>
 
 ![Andrea Maccan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acmaccan&show_icons=true&theme=nightowl)
 
